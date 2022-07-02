@@ -1,0 +1,1 @@
+yarn add next-auth@3
